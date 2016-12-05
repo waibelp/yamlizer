@@ -1,5 +1,5 @@
 {
-    "name": "waibelp85/yamlizer",
+    "name": "waibelp/yamlizer",
     "description": "Yamlizer is an PHP object serializer built with an eye on simplicity and performance.",
     "keywords": ["serializer", "deserializer", "yaml", "json", "yml", "php"],
     "type": "library",
