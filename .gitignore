@@ -1,0 +1,6 @@
+/.idea/
+/bin/*
+/composer.lock
+/tests/build/*
+/tests/cache/*
+/vendor/
