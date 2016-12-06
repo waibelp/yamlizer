@@ -2,5 +2,6 @@
 /bin/*
 /composer.lock
 /tests/build/*
-/tests/cache/*
+!/tests/cache/.gitkeep
+/tests/cache/
 /vendor/
