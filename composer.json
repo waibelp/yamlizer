@@ -16,7 +16,7 @@
         "bin-dir": "bin"
     },
     "require": {
-        "php": "^5.5",
+        "php": "^5.5|^7",
         "doctrine/common": "*"
     },
     "require-dev": {
