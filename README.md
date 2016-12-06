@@ -1,5 +1,7 @@
 # Yamlizer
 
+[![Build Status](https://travis-ci.org/waibelp/yamlizer.svg?branch=master)](https://travis-ci.org/waibelp/yamlizer)
+
 Yamlizer is an PHP object serializer built with an eye on simplicity and performance.
 
 It supports:
